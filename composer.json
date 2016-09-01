@@ -2,6 +2,17 @@
   "name": "flownative/noderepair-inconsistentidentifiers",
   "type": "typo3-flow-package",
   "description": "Fix inconsistent node identifiers",
+  "authors": [
+    {
+      "name": "Robert Lemke",
+      "email": "robert@flownative.com",
+      "homepage": "https://www.flownative.com",
+      "role": "Developer"
+    }
+  ],
+  "license": [
+    "MIT"
+  ],
   "require": {
     "typo3/flow": ">=3.2.0"
   },

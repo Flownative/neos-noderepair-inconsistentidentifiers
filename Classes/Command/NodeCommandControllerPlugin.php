@@ -123,7 +123,7 @@ class NodeCommandControllerPlugin implements NodeCommandControllerPluginInterfac
             case 'repair':
                 return <<<'HELPTEXT'
 <u>Repair inconsistent node identifiers</u>
-fixNodesWithWrongIdentifier
+fixNodesWithInconsistentIdentifier
 
 Will check for and optionally repair node identifiers which are out of sync with their
 corresponding nodes in a live workspace.
