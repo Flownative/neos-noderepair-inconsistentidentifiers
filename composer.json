@@ -1,0 +1,15 @@
+{
+  "name": "flownative/noderepair-inconsistentidentifiers",
+  "type": "typo3-flow-package",
+  "description": "Fix inconsistent node identifiers",
+  "require": {
+    "typo3/flow": ">=3.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Flownative\\NodeRepair\\InconsistentIdentifiers\\": "Classes"
+    }
+  }
+}
+
+
